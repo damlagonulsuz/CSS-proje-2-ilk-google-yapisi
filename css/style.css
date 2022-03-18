@@ -1,0 +1,43 @@
+
+.container {
+    width: 90%;
+    background-color: #EEEEEE;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 2px;
+
+}
+
+.content {
+    width: 90%;
+    text-align: center;
+    margin: auto;
+}
+
+.card1 {
+    text-align: center;
+    font-weight: normal;
+    width: 37%;
+    background-color: #7EE5DA;
+    height: 130px;
+    float: left;
+}
+
+.card2 {
+    width: 20%;
+    text-align: center;
+    background-color: #70CCC2;
+    float: left;
+    height: 130px;
+}
+
+.card3 {
+    width: 43%;
+    background-color: #62B3AA;
+    float: left;
+    height: 130px;
+}
+
+.clear {
+    clear: both;
+}
